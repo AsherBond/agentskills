@@ -30,6 +30,12 @@ specification or documentation changes do not by themselves put it in scope.
 The documentation under `docs/` is a Mintlify site. Treat rendered behavior and
 published routes—not source text alone—as part of documentation correctness.
 
+When adding client logos, consider their perceived size in both the logo
+carousel and client showcase. Square or visually dense logos can appear
+disproportionately dominant, while wide or sparse logos can appear too small;
+use the existing `scale` examples in `docs/snippets/clients.jsx` as context and
+exercise visual judgment.
+
 ## Contributions
 
 `CONTRIBUTING.md` owns current contribution scope, routing, and AI-assistance
