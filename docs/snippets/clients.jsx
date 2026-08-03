@@ -20,6 +20,7 @@ export const clients = [
     url: "https://www.zeroclawlabs.ai/",
     lightSrc: "/images/logos/zeroclaw/zeroclaw-logo-light.png",
     darkSrc: "/images/logos/zeroclaw/zeroclaw-logo-dark.png",
+    scale: 0.45,
     instructionsUrl: "https://docs.zeroclawlabs.ai/master/en/tools/skills.html",
     sourceCodeUrl: "https://github.com/zeroclaw-labs/zeroclaw",
   },
@@ -391,6 +392,7 @@ export const clients = [
     url: "https://www.pulumi.com/product/neo/",
     lightSrc: "/images/logos/pulumi-neo/pulumi-neo-logo-light.svg",
     darkSrc: "/images/logos/pulumi-neo/pulumi-neo-logo-dark.svg",
+    scale: 0.45,
     instructionsUrl: "https://www.pulumi.com/docs/ai/skills/",
   },
 ];
